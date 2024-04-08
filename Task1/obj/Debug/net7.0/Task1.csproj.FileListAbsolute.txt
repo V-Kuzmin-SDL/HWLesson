@@ -1,0 +1,14 @@
+/Users/aleksandrakondratenkova/Desktop/SDLC#/HWLesson/Task1/bin/Debug/net7.0/Task1
+/Users/aleksandrakondratenkova/Desktop/SDLC#/HWLesson/Task1/bin/Debug/net7.0/Task1.deps.json
+/Users/aleksandrakondratenkova/Desktop/SDLC#/HWLesson/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/Users/aleksandrakondratenkova/Desktop/SDLC#/HWLesson/Task1/bin/Debug/net7.0/Task1.dll
+/Users/aleksandrakondratenkova/Desktop/SDLC#/HWLesson/Task1/bin/Debug/net7.0/Task1.pdb
+/Users/aleksandrakondratenkova/Desktop/SDLC#/HWLesson/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrakondratenkova/Desktop/SDLC#/HWLesson/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Users/aleksandrakondratenkova/Desktop/SDLC#/HWLesson/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Users/aleksandrakondratenkova/Desktop/SDLC#/HWLesson/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/Users/aleksandrakondratenkova/Desktop/SDLC#/HWLesson/Task1/obj/Debug/net7.0/Task1.dll
+/Users/aleksandrakondratenkova/Desktop/SDLC#/HWLesson/Task1/obj/Debug/net7.0/refint/Task1.dll
+/Users/aleksandrakondratenkova/Desktop/SDLC#/HWLesson/Task1/obj/Debug/net7.0/Task1.pdb
+/Users/aleksandrakondratenkova/Desktop/SDLC#/HWLesson/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/Users/aleksandrakondratenkova/Desktop/SDLC#/HWLesson/Task1/obj/Debug/net7.0/ref/Task1.dll
